@@ -1,0 +1,36 @@
+check,actual,expected,difference,status
+Master orders row count,99441.0,99441.0,0.0,PASS
+Customer master customer count,96096.0,96096.0,0.0,PASS
+Category master category count,74.0,74.0,0.0,PASS
+Seller master seller count,3095.0,3095.0,0.0,PASS
+Unique order IDs,99441.0,99441.0,0.0,PASS
+Duplicate order IDs,0.0,0.0,0.0,PASS
+Missing master order IDs,0.0,0.0,0.0,PASS
+Missing customer unique IDs in master orders,0.0,0.0,0.0,PASS
+Customer master unique customer count,96096.0,96096.0,0.0,PASS
+Category sales reconciliation,13591643.699999997,13591643.7,1.862645149230957e-09,PASS
+Seller sales reconciliation,13591643.700000001,13591643.7,1.862645149230957e-09,PASS
+Payment total reconciliation,16008872.120000001,16008872.120000001,0.0,PASS
+Delivered order count,96478.0,96478.0,0.0,PASS
+Negative delivery durations,0.0,0.0,0.0,PASS
+Unique review count,98410.0,98410.0,0.0,PASS
+Invalid review scores,0.0,0.0,0.0,PASS
+Customer state payment reconciliation,16008872.120000001,16008872.120000001,0.0,PASS
+Seller state sales reconciliation,13591643.699999997,13591643.7,1.862645149230957e-09,PASS
+Missing values: order_id,0.0,0.0,0.0,PASS
+Missing values: customer_unique_id,0.0,0.0,0.0,PASS
+Missing values: order_status,0.0,0.0,0.0,PASS
+Missing values: order_purchase_timestamp,0.0,0.0,0.0,PASS
+Required file exists: executive_kpis.csv,1.0,1.0,0.0,PASS
+Required file exists: monthly_business.csv,1.0,1.0,0.0,PASS
+Required file exists: monthly_delivery.csv,1.0,1.0,0.0,PASS
+Required file exists: customer_master.csv,1.0,1.0,0.0,PASS
+Required file exists: customer_type_analysis.csv,1.0,1.0,0.0,PASS
+Required file exists: category_master.csv,1.0,1.0,0.0,PASS
+Required file exists: seller_master.csv,1.0,1.0,0.0,PASS
+Required file exists: customer_state_master.csv,1.0,1.0,0.0,PASS
+Required file exists: seller_state_master.csv,1.0,1.0,0.0,PASS
+Required file exists: delivery_state_master.csv,1.0,1.0,0.0,PASS
+Required file exists: review_master.csv,1.0,1.0,0.0,PASS
+Required file exists: validation_results.csv,1.0,1.0,0.0,PASS
+Required file exists: master_orders.csv,1.0,1.0,0.0,PASS

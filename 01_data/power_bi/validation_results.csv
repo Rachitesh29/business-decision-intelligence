@@ -1,0 +1,9 @@
+check,value,expected,status
+Master orders row count,99441.0,99441.0,PASS
+Delivered order count,96478.0,96478.0,PASS
+Customer count,96096.0,96096.0,PASS
+Category sales reconciliation,13591643.699999997,13591643.7,PASS
+Seller sales reconciliation,13591643.700000001,13591643.7,PASS
+Customer state payment reconciliation,16008872.120000001,16008872.120000001,PASS
+Missing customer IDs,0.0,0.0,PASS
+Missing order IDs,0.0,0.0,PASS

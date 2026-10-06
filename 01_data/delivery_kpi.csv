@@ -1,0 +1,15 @@
+metric,value
+Total orders,99441.0
+Delivered orders,96478.0
+Non-delivered orders,2963.0
+Delivery rate pct,97.02034372140264
+Average delivery days,12.558217098051975
+Median delivery days,10.217476851851853
+Average delivery variance days,-11.17812572885353
+Late orders,7826.0
+Early orders,88644.0
+On-time orders,0.0
+Unknown performance orders,8.0
+Late delivery rate pct,8.111693857667031
+Early delivery rate pct,91.88001409647796
+On-time delivery rate pct,0.0

@@ -1,0 +1,3 @@
+customer_type,customers,total_orders,total_spend,average_customer_spend,average_order_value,average_review_score,revenue_contribution_pct
+One-Time Customer,93220,93333,15101579.13,161.80321140432645,161.80321140432645,4.084028804940457,94.33256144968195
+Repeat Customer,2885,6108,907292.99,314.3773354123354,148.21986936192818,4.116405296911952,5.667438550318058

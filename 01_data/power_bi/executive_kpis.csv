@@ -1,0 +1,20 @@
+metric,value
+Total Orders,99441.0
+Delivered Orders,96478.0
+Non-Delivered Orders,2963.0
+Delivery Rate %,97.02034372140264
+Total Customers,96096.0
+Repeat Customers,2997.0
+Repeat Customer Rate %,3.1187562437562435
+Total Payment Value,16008872.120000001
+Orders With Payment,99437.0
+Average Order Value,160.9951237466939
+Average Delivery Days,12.558217098051975
+Median Delivery Days,10.217476851851853
+Late Delivered Orders,7826.0
+Late Delivery Rate %,8.111693857667031
+Early Delivered Orders,88644.0
+On-Time Delivered Orders,0.0
+Average Review Score,4.08642062404257
+Low Rating Reviews (1-2),14575.0
+High Rating Reviews (4-5),76470.0
